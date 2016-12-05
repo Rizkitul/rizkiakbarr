@@ -1,0 +1,2 @@
+# rizkiakbarr
+latihan borland (C++)
